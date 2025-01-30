@@ -1,4 +1,4 @@
-package com.driver;
+package main.java.com.driver;
 
 public class Main {
   
